@@ -61,11 +61,7 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="output/breakout-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="output/breakout-light.svg">
-    <img alt="github-breakout" src="output/breakout-dark.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/jcklyndr/jcklyndr/github-breakout/images/breakout-custom.svg" width="100%">
 </p>
 
 

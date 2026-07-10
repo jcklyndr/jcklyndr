@@ -3,7 +3,7 @@ name: generate breakout svg
 on:
   schedule:
     - cron: "0 */24 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
 
 jobs:
   generate-svg:
@@ -11,6 +11,7 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -21,24 +22,24 @@ jobs:
           github_username: jcklyndr
           ball_color: "#00ff66"
           paddle_color: "#00ff66"
-          bricks_colors: "#00ff66,#1e7a3c,#155c2b,#0d3d1c,#0a2914"
+          bricks_colors: "#0a2914,#155c2b,#1e7a3c,#2fa855,#00ff66"
 
-      - name: Move generated SVGs
+      - name: Move generated SVG to temp
         run: |
           mkdir -p /tmp/breakout-images
-          mv output/light.svg /tmp/breakout-images/breakout-light.svg
-          mv output/dark.svg /tmp/breakout-images/breakout-dark.svg
+          mv output/custom.svg /tmp/breakout-images/breakout-custom.svg
 
       - name: Configure git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit SVGs
+      - name: Commit and force-push SVG to target branch
         run: |
-          mkdir -p output
-          mv /tmp/breakout-images/breakout-light.svg output/breakout-light.svg
-          mv /tmp/breakout-images/breakout-dark.svg output/breakout-dark.svg
-          git add output/
-          git commit -m "Update breakout SVG" || echo "No changes"
-          git push
+          git checkout --orphan github-breakout
+          git rm -rf .
+          mkdir images
+          mv /tmp/breakout-images/* images/
+          git add images
+          git commit -m "chore: update GitHub breakout SVG" || echo "No changes to commit"
+          git push --force origin github-breakout
