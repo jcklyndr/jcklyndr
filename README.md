@@ -10,7 +10,7 @@
 Sup! I am a Developer with a soft spot for clean, polished UI — currently looking for a job while continuously being active in coding and even designing.
 
 - ✨ Recently completed the Degree in **Aviation Information Technology**, now focused on web development
-- 🛠️ Comfortable across **React/Vite, Bootstrap 5, Framer Motion, CSS Modules, Laravel, ASP.NET Core**
+- 🛠️ Comfortable across **React/Vite, Bootstrap 5, Framer Motion, CSS Modules, Laravel, ASP.NET Core MVC**
 - 🎯 Currently looking for a job where I can apply my skills.
 - 🧩 I like simple, clean solutions over overengineered ones.
 - 💻 Check out my [Portfolio](https://majackielynduero-portfolio.site) for more of my work.
@@ -47,28 +47,33 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
 <tr>
 <td valign="top" width="50%">
 
-**Technical Skills**
-
-- System Integration Testing (SIT) & QC (Functional and Regression Testing)
-- Defect Documentation & Reporting
-- UI/UX Validation
-- MVC Architecture, SOLID Principles, DRY Practices
-- Agile Methodology
-- Database Design (MySQL, MSSQL)
-- Business Rules Technology Standard Documentation
-- User Manual Creation
+<p align="center"><b>💻 Technical Skills</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Integration_Testing-1e7a3c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/QC_(Functional_%26_Regression)-1e7a3c?style=for-the-badge"/><br>
+  <img src="https://img.shields.io/badge/Defect_Documentation-1e7a3c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI%2FUX_Validation-1e7a3c?style=for-the-badge"/><br>
+  <img src="https://img.shields.io/badge/MVC_Architecture-1e7a3c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SOLID_Principles-1e7a3c?style=for-the-badge"/><br>
+  <img src="https://img.shields.io/badge/DRY_Practices-1e7a3c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agile_Methodology-1e7a3c?style=for-the-badge"/><br>
+  <img src="https://img.shields.io/badge/Database_Design-1e7a3c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business_Rules_Documentation-1e7a3c?style=for-the-badge"/><br>
+  <img src="https://img.shields.io/badge/User_Manual_Creation-1e7a3c?style=for-the-badge"/>
+</p>
 
 </td>
 <td valign="top" width="50%">
 
-**Soft Skills**
-
-- Adaptable
-- Responsible
-- Growth-Oriented
-- Detail-Oriented
-- Cross-Functional
-- Reliable
+<p align="center"><b>🤝 Soft Skills</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Adaptable-6C4EE3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Responsible-6C4EE3?style=for-the-badge"/><br>
+  <img src="https://img.shields.io/badge/Growth_Oriented-6C4EE3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Detail_Oriented-6C4EE3?style=for-the-badge"/><br>
+  <img src="https://img.shields.io/badge/Cross_Functional-6C4EE3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Reliable-6C4EE3?style=for-the-badge"/>
+</p>
 
 </td>
 </tr>
