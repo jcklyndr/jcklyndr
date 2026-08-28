@@ -7,7 +7,7 @@
     <a href="[www.linkedin.com/in/ma-jackielyn-duero](https://www.linkedin.com/in/ma-jackielyn-duero)"><img src="https://img.shields.io/badge/🗀-Ma. Jackielyn Duero-1e7a3c?style=flat-square"></a>
 </p>
 <h1 align="center">    
-<img src="images/me.png" width="80" height="80"/>
+<img src="images/me.png" width="80" height="120"/>
  I'M JACKIE!</h1>
 <p align="center"><i>Frontend-leaning Full Stack Developer • Fresh Grad, Aviation Information Technology</i></p>
 Sup! I am a Developer with a soft spot for clean, polished UI — currently looking for a job while continuously being active in coding and even designing
