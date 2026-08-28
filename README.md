@@ -48,6 +48,7 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
 <td valign="top" width="50%">
 
 **Technical Skills**
+
 - System Integration Testing (SIT) & QC (Functional and Regression Testing)
 - Defect Documentation & Reporting
 - UI/UX Validation
@@ -58,16 +59,16 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
 - User Manual Creation
 
 </td>
-<td align="top" width="50%">
+<td valign="top" width="50%">
 
 **Soft Skills**
+
 - Adaptable
 - Responsible
 - Growth-Oriented
 - Detail-Oriented
 - Cross-Functional
 - Reliable
-
 
 </td>
 </tr>
