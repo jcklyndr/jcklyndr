@@ -43,7 +43,7 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
 <br>
 
 <h3 align="center">🧠 Skills</h3>
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td valign="top" width="70%">
 
