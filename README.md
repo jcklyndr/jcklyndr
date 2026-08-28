@@ -47,7 +47,7 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
 <tr>
 <td valign="top" width="50%">
 
-**💻 Technical Skills**
+**Technical Skills**
 - System Integration Testing (SIT) & QC (Functional and Regression Testing)
 - Defect Documentation & Reporting
 - UI/UX Validation
@@ -60,20 +60,14 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
 </td>
 <td align="top" width="50%">
 
-**🤝 Soft Skills**
+**Soft Skills**
 - Adaptable
 - Responsible
 - Growth-Oriented
 - Detail-Oriented
 - Cross-Functional
 - Reliable
-- Problem Solving
-- Communication
-- Adaptability
-- Time Management
-- Continuous Learning
-- Team Collaboration
-- Ownership & Accountability
+
 
 </td>
 </tr>
@@ -82,6 +76,20 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
 
 <h3 align="center">🏅 Badges & Certifications</h3>
 <p align="center">
-  <a href="https://www.credly.com/users/YOUR-USERNAME/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/></a>
+  <a href="https://www.credly.com/badges/0c591872-6800-496f-aa71-f9310983b3ad/public_url">
+    <img src="images/badge1.png" width="120" height="120"/>
+  </a>
+  <a href="https://www.credly.com/badges/9b19530c-514f-4dad-86b4-f84b4027e772/public_url">
+    <img src="images/badge2.png" width="120" height="120"/>
+  </a>
+  <a href="https://www.credly.com/badges/a3386266-eaed-4572-8065-87927a48199c/public_url">
+    <img src="images/badge3.png" width="120" height="120"/>
+  </a>
+  <a href="https://www.credly.com/badges/678f23d5-5c6a-4433-90c7-4b1677106d04/public_url">
+    <img src="images/badge4.png" width="120" height="120"/>
+  </a>
+  <a href="https://www.credly.com/badges/18b88948-9cd8-42aa-893a-38f556b86c77/public_url">
+    <img src="images/badge5.png" width="120" height="120"/>
+  </a>
 </p>
 <br>
