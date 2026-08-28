@@ -43,9 +43,9 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
 <br>
 
 <h3 align="center">🧠 Skills</h3>
-<table align="center" width="100%">
+<table align="center">
 <tr>
-<td valign="top" width="70%">
+<td valign="top" width="60%">
 
 <b>💻 Technical Skills</b>
 
@@ -59,12 +59,12 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
   <img src="https://img.shields.io/badge/DRY_Practices-1e7a3c?style=flat-square"/>
   <img src="https://img.shields.io/badge/Agile_Methodology-1e7a3c?style=flat-square"/>
   <img src="https://img.shields.io/badge/Database_Design-1e7a3c?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Business_Rules_Documentation-1e7a3c?style=flat-square"/><br>
+  <img src="https://img.shields.io/badge/Business_Rules_Documentation-1e7a3c?style=flat-square"/>
   <img src="https://img.shields.io/badge/User_Manual_Creation-1e7a3c?style=flat-square"/>
 </p>
 
 </td>
-<td valign="top" width="30%">
+<td valign="top" width="40%">
 
 <b>🤝 Soft Skills</b>
 
@@ -74,9 +74,9 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
   <img src="https://img.shields.io/badge/Growth_Oriented-6C4EE3?style=flat-square"/>
   <img src="https://img.shields.io/badge/Detail_Oriented-6C4EE3?style=flat-square"/>
   <img src="https://img.shields.io/badge/Cross_Functional-6C4EE3?style=flat-square"/>
-<  <img src="https://img.shields.io/badge/Reliable-6C4EE3?style=flat-square"/>
->  <img src="https://img.shields.io/badge/Willingnes_to_learn-6C4EE3?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Coachable-6C4EE3?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Reliable-6C4EE3?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Willingnes_to_learn-6C4EE3?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Coachable-6C4EE3?style=flat-square"/>
 
 </p>
 
