@@ -45,7 +45,7 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
 <h3 align="center">🧠 Skills</h3>
 <table align="center">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="70%">
 
 <b>💻 Technical Skills</b>
 
@@ -64,7 +64,7 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
 </p>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="30%">
 
 <b>🤝 Soft Skills</b>
 
