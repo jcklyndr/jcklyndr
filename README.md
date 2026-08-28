@@ -16,7 +16,7 @@
 
 Sup! I am a Developer with a soft spot for clean, polished UI — currently looking for a job while continuously being active in coding and even designing
 
-- ✨ Fresh grad in **Aviation Information Technology**, now focused on web development
+- ✨ Recently completed the Degree in **Aviation Information Technology**, now focused on web development
 - 🛠️ Comfortable across **React/Vite, Bootstrap 5, Framer Motion, CSS Modules, Laravel, ASP.NET Core**
 - 🎯 Currently looking for a job where I can apply my skills.
 - 🧩 I like simple, clean solutions over overengineered ones.
@@ -52,22 +52,3 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
 </p>
 
 <br>
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jcklyndr&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9&border_color=1e7a3c" width="48%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcklyndr&hide_border=true&background=0d1117&stroke=1e7a3c&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&sideLabels=c9d1d9&sideNums=00ff66&dates=8b949e" width="48%"/>
-</p>
-
-<p align="center">
-  <sub><i>Note: numbers might not be 100% accurate due to public API caching/limits 👀</i></sub>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jcklyndr/jcklyndr/github-breakout/images/breakout-custom.svg" width="100%">
-</p>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,100:1e7a3c&height=100&section=footer" width="100%"/>
