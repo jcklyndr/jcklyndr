@@ -74,8 +74,7 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
   <img src="https://img.shields.io/badge/Growth_Oriented-6C4EE3?style=flat-square"/>
   <img src="https://img.shields.io/badge/Detail_Oriented-6C4EE3?style=flat-square"/><br>
   <img src="https://img.shields.io/badge/Cross_Functional-6C4EE3?style=flat-square"/>
-<img src="https://shields.io" alt="Reliable">
-  <img src="https://img.shields.io/badge/Willingnes_to_learn-6C4EE3?style=flat-square"/>
+<kdb>reliable</kdb>  <img src="https://img.shields.io/badge/Willingnes_to_learn-6C4EE3?style=flat-square"/>
     <img src="https://img.shields.io/badge/Coachable-6C4EE3?style=flat-square"/>
 
 </p>
