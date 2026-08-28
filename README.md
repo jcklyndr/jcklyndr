@@ -1,13 +1,11 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,100:1e7a3c&height=220&section=header&text=HELLO%20WORLD&fontSize=60&fontColor=ffffff&desc=Welcome%20to%20my%20Profile😃&descAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,100:1e7a3c&height=220&section=header&text= █▓▒▒░░░ I'M JACKIE ░░░▒▒▓█&fontSize=60&fontColor=ffffff&desc=Welcome%20to%20my%20Profile😃&descAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 <p align="center">
   <a href="https://majackielynduero-portfolio.site/"><img src="https://img.shields.io/badge/🌐-majackielynduero.site-1e7a3c?style=flat-square"></a>
   <a href="jackielynduero092202@gmail.com"><img src="https://img.shields.io/badge/📧-jackielynduero092202@gmail.com-1e7a3c?style=flat-square"></a>
     <a href="[www.linkedin.com/in/ma-jackielyn-duero](https://www.linkedin.com/in/ma-jackielyn-duero)"><img src="https://img.shields.io/badge/🗀-Ma. Jackielyn Duero-1e7a3c?style=flat-square"></a>
 </p>
-<h1 align="center">    
- █▓▒▒░░░I'M JACKIE░░░▒▒▓█</h1>
 <p align="center"><i>Frontend-leaning Full Stack Developer • Fresh Grad, Aviation Information Technology</i></p>
 Sup! I am a Developer with a soft spot for clean, polished UI — currently looking for a job while continuously being active in coding and even designing.
 
