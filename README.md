@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,100:1e7a3c&height=220&section=header&text= █▓▒▒░░░ I'M JACKIE ░░░▒▒▓█&fontSize=60&fontColor=ffffff&desc=Welcome%20to%20my%20Profile😃&descAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,100:1e7a3c&height=220&section=header&text=█▓▒▒░░░%20I'M%20JACKIE%20░░░▒▒▓█&fontSize=60&fontColor=ffffff&desc=Welcome%20to%20my%20Profile😃&descAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 <p align="center">
   <a href="https://majackielynduero-portfolio.site/"><img src="https://img.shields.io/badge/🌐-majackielynduero.site-1e7a3c?style=flat-square"></a>
