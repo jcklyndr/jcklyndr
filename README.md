@@ -51,13 +51,13 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
 
 <p align="left">
   <img src="https://img.shields.io/badge/System_Integration_Testing-1e7a3c?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Quality_Control-1e7a3c?style=flat-square"/><br>
+  <img src="https://img.shields.io/badge/Quality_Control-1e7a3c?style=flat-square"/>
   <img src="https://img.shields.io/badge/Defect_Documentation-1e7a3c?style=flat-square"/>
-  <img src="https://img.shields.io/badge/UI%2FUX_Validation-1e7a3c?style=flat-square"/><br>
+  <img src="https://img.shields.io/badge/UI%2FUX_Validation-1e7a3c?style=flat-square"/>
   <img src="https://img.shields.io/badge/MVC_Architecture-1e7a3c?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SOLID_Principles-1e7a3c?style=flat-square"/><br>
+  <img src="https://img.shields.io/badge/SOLID_Principles-1e7a3c?style=flat-square"/>
   <img src="https://img.shields.io/badge/DRY_Practices-1e7a3c?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Agile_Methodology-1e7a3c?style=flat-square"/><br>
+  <img src="https://img.shields.io/badge/Agile_Methodology-1e7a3c?style=flat-square"/>
   <img src="https://img.shields.io/badge/Database_Design-1e7a3c?style=flat-square"/>
   <img src="https://img.shields.io/badge/Business_Rules_Documentation-1e7a3c?style=flat-square"/><br>
   <img src="https://img.shields.io/badge/User_Manual_Creation-1e7a3c?style=flat-square"/>
@@ -70,11 +70,12 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
 
 <p align="left">
   <img src="https://img.shields.io/badge/Adaptable-6C4EE3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Responsible-6C4EE3?style=flat-square"/><br>
+  <img src="https://img.shields.io/badge/Responsible-6C4EE3?style=flat-square"/>
   <img src="https://img.shields.io/badge/Growth_Oriented-6C4EE3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Detail_Oriented-6C4EE3?style=flat-square"/><br>
+  <img src="https://img.shields.io/badge/Detail_Oriented-6C4EE3?style=flat-square"/>
   <img src="https://img.shields.io/badge/Cross_Functional-6C4EE3?style=flat-square"/>
-<kdb>reliable</kdb>  <img src="https://img.shields.io/badge/Willingnes_to_learn-6C4EE3?style=flat-square"/>
+<  <img src="https://img.shields.io/badge/Reliable-6C4EE3?style=flat-square"/>
+>  <img src="https://img.shields.io/badge/Willingnes_to_learn-6C4EE3?style=flat-square"/>
     <img src="https://img.shields.io/badge/Coachable-6C4EE3?style=flat-square"/>
 
 </p>
