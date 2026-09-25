@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc" xmlns:c2pa="http://c2pa.org/manifest">
+<title id="title">Ma. Jackielyn S. Duero</title>
+  <desc id="desc">AIT Graduate. Frontend Developer, QA, and Web Designer. I build. I document. I test.</desc>
+  <style>
+    .spin { animation: spin 6s linear infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .orbit-outer { animation: orbit 7s linear infinite; transform-origin: 1045px 162px; }
+    .orbit-inner { animation: orbit 7s linear infinite; animation-delay: -3.5s; transform-origin: 1045px 162px; }
+    .counter-outer { animation: counter-spin 7s linear infinite; transform-origin: 1045px 14px; }
+    .counter-inner { animation: counter-spin 7s linear infinite; animation-delay: -3.5s; transform-origin: 1045px 57px; }
+    @keyframes orbit { to { transform: rotate(360deg); } }
+    @keyframes counter-spin { to { transform: rotate(-360deg); } }
+    @media (prefers-reduced-motion: reduce) { .spin, .orbit-outer, .orbit-inner, .counter-outer, .counter-inner { animation: none; } }
+  </style>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#004032"/><stop offset="1" stop-color="#59ECCC"/></linearGradient>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1F1A"/><stop offset="1" stop-color="#04100C"/></linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#004032"/>
+      <stop offset="50%" stop-color="#59ECCC"/>
+      <stop offset="100%" stop-color="#004032"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0; 1 0; -1 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="340" rx="" fill="url(#wash)"/>
+  <rect x="0" y="0" width="7" height="340" fill="url(#accent)"/>
+
+  <g fill="none" stroke="#59ECCC" opacity=".2">
+    <circle cx="1045" cy="162" r="148"/><circle cx="1045" cy="162" r="105"/>
+    <path d="M897 162h296M1045 14v296"/>
+  </g>
+
+  <g class="orbit-outer">
+    <g class="counter-outer">
+      <rect x="1037" y="6" width="16" height="16" rx="4" fill="none"/>
+      <g stroke="#59ECCC" stroke-width="1.6" stroke-linecap="round">
+        <path d="M1045,8V20M1039.8,11L1050.2,17M1039.8,17L1050.2,11"/>
+      </g>
+    </g>
+  </g>
+
+  <g class="orbit-inner">
+    <g class="counter-inner">
+      <rect x="1037" y="49" width="16" height="16" rx="4" fill="none"/>
+      <g stroke="#59ECCC" stroke-width="1.6" stroke-linecap="round">
+        <path d="M1045,51V63M1039.8,54L1050.2,60M1039.8,60L1050.2,54"/>
+      </g>
+    </g>
+  </g>
+
+  <g transform="translate(975 92)" fill="none" stroke="url(#wave)" stroke-width="5" stroke-linecap="round" >
+    <rect x="5" y="5" width="130" height="130" rx="999"/>
+    <path d="M58 48 30 70 58 92" stroke-width="7"/>
+    <path d="M82 25 58 115" stroke-width="7"/>
+    <path d="M82 48 110 70 82 92" stroke-width="7"/>
+  </g>
+
+  <g transform="translate(49 47)">
+    <g class="spin">
+      <rect x="0" y="0" width="18" height="18" rx="5" fill="none"/>
+      <g stroke="#59ECCC" stroke-width="2" stroke-linecap="round">
+        <path d="M9 3v12M3.6 5.6l10.8 6.8M3.6 12.4l10.8-6.8"/>
+      </g>
+    </g>
+  </g>
+  <text x="80" y="61" fill="#9FD9C6" font-family="Arial, sans-serif" font-size="13" letter-spacing="3">JACKIE | PHILIPPINES</text>
+
+  <text x="54" y="142" fill="#F3EFEB" font-family="Arial, sans-serif" font-weight="700" font-size="52" letter-spacing="-1">Ma. Jackielyn S. Duero</text>
+  <text x="57" y="189" fill="#8FE3C9" font-family="Arial, sans-serif" font-size="23">AIT Graduate · Frontend Developer · QA · Web Designer</text>
+
+  <path d="M57 226H860" stroke="#9FD9C6" opacity=".2"/>
+  <text x="57" y="270" fill="#B7CFC6" font-family="Arial, sans-serif" font-size="16">I build. I document. I test.</text>
+  <text x="57" y="305" fill="#7FA396" font-family="Arial, sans-serif" font-size="11" letter-spacing="2">FROM CONCEPT TO QUALITY-CHECKED CODE.</text>
+</svg>

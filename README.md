@@ -1,12 +1,7 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,100:1e7a3c&height=220&section=header&text=█▓▒▒░░░%20I'M%20JACKIE%20░░░▒▒▓█&fontSize=60&fontColor=ffffff&desc=Welcome%20to%20my%20Profile😃&descAlignY=65&animation=fadeIn" width="100%"/>
-</div>
 <p align="center">
-  <a href="https://majackielynduero-portfolio.site/"><img src="https://img.shields.io/badge/🌐-majackielynduero.site-1e7a3c?style=flat-square"></a>
-  <a href="jackielynduero092202@gmail.com"><img src="https://img.shields.io/badge/📧-jackielynduero092202@gmail.com-1e7a3c?style=flat-square"></a>
-    <a href="[www.linkedin.com/in/ma-jackielyn-duero](https://www.linkedin.com/in/ma-jackielyn-duero)"><img src="https://img.shields.io/badge/🗀-Ma. Jackielyn Duero-1e7a3c?style=flat-square"></a>
+  <img src="./assets/profile-banner.svg" width="100%" alt="Ma. Jackielyn S. Duero - AIT Graduate - Front-End Developer - QA - Web Designer" />
 </p>
-<p align="center"><i>Frontend-leaning Full Stack Developer • Fresh Grad, Aviation Information Technology</i></p>
+
 Sup! I am a Developer with a soft spot for clean, polished UI — currently looking for a job while continuously being active in coding and even designing.
 
 - ✨ Recently completed the Degree in **Aviation Information Technology**, now focused on web development
@@ -88,19 +83,19 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
 <h3 align="center">🏅 Badges & Certifications</h3>
 <p align="center">
   <a href="https://www.credly.com/badges/0c591872-6800-496f-aa71-f9310983b3ad/public_url">
-    <img src="images/badge1.png" width="120" height="120"/>
+    <img src="assets/badge1.png" width="120" height="120"/>
   </a>
   <a href="https://www.credly.com/badges/9b19530c-514f-4dad-86b4-f84b4027e772/public_url">
-    <img src="images/badge2.png" width="120" height="120"/>
+    <img src="assets/badge2.png" width="120" height="120"/>
   </a>
   <a href="https://www.credly.com/badges/a3386266-eaed-4572-8065-87927a48199c/public_url">
-    <img src="images/badge3.png" width="120" height="120"/>
+    <img src="assets/badge3.png" width="120" height="120"/>
   </a>
   <a href="https://www.credly.com/badges/678f23d5-5c6a-4433-90c7-4b1677106d04/public_url">
-    <img src="images/badge4.png" width="120" height="120"/>
+    <img src="assets/badge4.png" width="120" height="120"/>
   </a>
   <a href="https://www.credly.com/badges/18b88948-9cd8-42aa-893a-38f556b86c77/public_url">
-    <img src="images/badge5.png" width="120" height="120"/>
+    <img src="assets/badge5.png" width="120" height="120"/>
   </a>
 </p>
 <br>
