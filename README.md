@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Ma. Jackielyn S. Duero - AIT Graduate - Front-End Developer - QA - Web Designer" />
+  <img src="assets/profile-banner.svg" width="100%" alt="Ma. Jackielyn S. Duero - AIT Graduate - Front-End Developer - QA - Web Designer" />
 </p>
 
 Sup! I am a Developer with a soft spot for clean, polished UI — currently looking for a job while continuously being active in coding and even designing.
@@ -10,8 +10,10 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
 - 🧩 I like simple, clean solutions over overengineered ones.
 - 💻 Check out my [Portfolio](https://majackielynduero-portfolio.site) for more of my work.
 - 📚 Always learning — every bug fixed is a lesson learned.
-<br>
-<h3 align="center">🧰 Tech Stack</h3>
+  <br>
+
+## Tools and Technologies
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-darkblue?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vite-b536f7?style=for-the-badge&logo=vite&logoColor=white"/>
@@ -37,50 +39,34 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
 </p>
 <br>
 
-<h3 align="center">🧠 Skills</h3>
-<table align="center">
-<tr>
-<td valign="top" width="60%">
+## Skills
 
-<b>💻 Technical Skills</b>
+| Category                | Skills                       |
+| ----------------------- | ---------------------------- |
+| **💻 Technical Skills** | System Integration Testing   |
+|                         | Quality Control              |
+|                         | Defect Documentation         |
+|                         | UI/UX Validation             |
+|                         | MVC Architecture             |
+|                         | SOLID Principles             |
+|                         | DRY Practices                |
+|                         | Agile Methodology            |
+|                         | Database Design              |
+|                         | Business Rules Documentation |
+|                         | User Manual Creation         |
+| **🤝 Soft Skills**      | Adaptable                    |
+|                         | Responsible                  |
+|                         | Growth Oriented              |
+|                         | Detail Oriented              |
+|                         | Cross Functional             |
+|                         | Reliable                     |
+|                         | Willingness to Learn         |
+|                         | Coachable                    |
 
-<p align="left">
-  <img src="https://img.shields.io/badge/System_Integration_Testing-1e7a3c?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Quality_Control-1e7a3c?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Defect_Documentation-1e7a3c?style=flat-square"/>
-  <img src="https://img.shields.io/badge/UI%2FUX_Validation-1e7a3c?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MVC_Architecture-1e7a3c?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SOLID_Principles-1e7a3c?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DRY_Practices-1e7a3c?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Agile_Methodology-1e7a3c?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Database_Design-1e7a3c?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Business_Rules_Documentation-1e7a3c?style=flat-square"/>
-  <img src="https://img.shields.io/badge/User_Manual_Creation-1e7a3c?style=flat-square"/>
-</p>
-
-</td>
-<td valign="top" width="40%">
-
-<b>🤝 Soft Skills</b>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Adaptable-6C4EE3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Responsible-6C4EE3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Growth_Oriented-6C4EE3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Detail_Oriented-6C4EE3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Cross_Functional-6C4EE3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Reliable-6C4EE3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Willingnes_to_learn-6C4EE3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Coachable-6C4EE3?style=flat-square"/>
-
-</p>
-
-</td>
-</tr>
-</table>
 <br>
 
-<h3 align="center">🏅 Badges & Certifications</h3>
+## Badges and Certifications
+
 <p align="center">
   <a href="https://www.credly.com/badges/0c591872-6800-496f-aa71-f9310983b3ad/public_url">
     <img src="assets/badge1.png" width="120" height="120"/>
