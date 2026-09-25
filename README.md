@@ -41,6 +41,8 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
 
 ## Skills
 
+<div align="center">
+
 | Category                | Skills                       |
 | ----------------------- | ---------------------------- |
 | **💻 Technical Skills** | System Integration Testing   |
@@ -63,7 +65,7 @@ Sup! I am a Developer with a soft spot for clean, polished UI — currently look
 |                         | Willingness to Learn         |
 |                         | Coachable                    |
 
-<br>
+</div>
 
 ## Badges and Certifications
 
